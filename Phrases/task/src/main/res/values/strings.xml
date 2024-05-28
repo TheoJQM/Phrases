@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Phrases</string>
+    <string name="textView_empty">No reminder set</string>
+    <string name="button_description">add phrase</string>
+    <string name="delete_button">Delete</string>
+
+    <string name="sun">The sun is shining brightly today.</string>
+    <string name="book">I love reading exciting books.</string>
+    <string name="dog">My dog enjoys playing in the park.</string>
+    <string name="meeting">The meeting starts at ten o\'clock.</string>
+    <string name="cooking">I cooked a delicious meal yesterday.</string>
+    <string name="dialog_hint">Phrase</string>
+</resources>
